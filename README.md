@@ -1,4 +1,4 @@
-# Antigravity StudyOS: Agentic AI Learning & Study Assistant
+# Agentic AI Learning & Study Assistant
 
 A personalized learning web application powered by **Agentic AI**, **Retrieval-Augmented Generation (RAG)**, **3-Tier Cognitive Memory**, and an **Interactive Study Toolkit**.
 
